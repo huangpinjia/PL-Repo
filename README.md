@@ -10,4 +10,6 @@
 
 # 作業連結區
 
+[HW1](https://github.com/huangpinjia/PL-Repo/blob/main/HW1/HW1.ipynb)
+
 # 專題連結區
