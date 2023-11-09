@@ -12,4 +12,6 @@
 
 [HW1](https://github.com/huangpinjia/PL-Repo/blob/main/HW1/HW1.ipynb)
 
+[HW2](https://github.com/huangpinjia/PL-Repo/blob/main/HW2/HW2.ipynb)
+
 # 專題連結區
