@@ -10,10 +10,12 @@
 
 # 作業連結區
 
-[HW1](https://github.com/huangpinjia/PL-Repo/blob/main/HW1/HW1.ipynb)
+##### 將CSV資料匯入python:[HW1](https://github.com/huangpinjia/PL-Repo/blob/main/HW1/HW1.ipynb)
 
-[HW2](https://github.com/huangpinjia/PL-Repo/blob/main/HW2/HW2.ipynb)
+##### 提出三個問題並進行比較:[HW2](https://github.com/huangpinjia/PL-Repo/blob/main/HW2/HW2.ipynb)
 
-[HW3](https://github.com/huangpinjia/PL-Repo/tree/main/HW3)
+##### 爬蟲練習:[HW3](https://github.com/huangpinjia/PL-Repo/tree/main/HW3)
+
+
 
 # 專題連結區
