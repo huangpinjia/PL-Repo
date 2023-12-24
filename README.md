@@ -16,7 +16,7 @@
 
 ##### HW3 Python爬蟲練習:[Code Link](https://github.com/huangpinjia/PL-Repo/tree/main/HW3)
 
-##### HW4 Python資料視覺化—文字雲 :[Meduim](https://medium.com/@41171132h/python%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96-%E6%96%87%E5%AD%97%E9%9B%B2-5d3d2890b9cc)
+##### HW4 Python資料視覺化—文字雲 :[Meduim](https://medium.com/@41171132h/python%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96-%E6%96%87%E5%AD%97%E9%9B%B2-5d3d2890b9cc)/[Code Link](https://github.com/huangpinjia/PL-Repo/blob/main/HW4/HW4.ipynb)
 
 
 
